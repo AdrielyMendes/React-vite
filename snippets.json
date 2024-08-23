@@ -1,0 +1,14 @@
+{
+	"Componente": {
+		"prefix": ".componente",
+		"body": [
+			"export function ${1:Componente}() {",
+			"",
+			"\treturn (",
+			"\t\t$0",
+			"\t)",
+			"}"
+		],
+		"description": "Cria um componente funcional"
+	}
+}
